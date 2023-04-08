@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dragonmoney3/ex06/static/css/main.a8a45535.css",
+    "main.js": "/dragonmoney3/ex06/static/js/main.e06ecbae.js",
+    "static/js/787.1fbd6888.chunk.js": "/dragonmoney3/ex06/static/js/787.1fbd6888.chunk.js",
+    "static/media/any.jpg": "/dragonmoney3/ex06/static/media/any.3875adf95e26a258ae1f.jpg",
+    "index.html": "/dragonmoney3/ex06/index.html",
+    "main.a8a45535.css.map": "/dragonmoney3/ex06/static/css/main.a8a45535.css.map",
+    "main.e06ecbae.js.map": "/dragonmoney3/ex06/static/js/main.e06ecbae.js.map",
+    "787.1fbd6888.chunk.js.map": "/dragonmoney3/ex06/static/js/787.1fbd6888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a45535.css",
+    "static/js/main.e06ecbae.js"
+  ]
+}
