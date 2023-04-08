@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dragonmoney3/ex06/static/css/main.a8a45535.css",
-    "main.js": "/dragonmoney3/ex06/static/js/main.e06ecbae.js",
-    "static/js/787.1fbd6888.chunk.js": "/dragonmoney3/ex06/static/js/787.1fbd6888.chunk.js",
-    "static/media/any.jpg": "/dragonmoney3/ex06/static/media/any.3875adf95e26a258ae1f.jpg",
-    "index.html": "/dragonmoney3/ex06/index.html",
-    "main.a8a45535.css.map": "/dragonmoney3/ex06/static/css/main.a8a45535.css.map",
-    "main.e06ecbae.js.map": "/dragonmoney3/ex06/static/js/main.e06ecbae.js.map",
-    "787.1fbd6888.chunk.js.map": "/dragonmoney3/ex06/static/js/787.1fbd6888.chunk.js.map"
+    "main.css": "/%20//dragonmoney3.github.io/ex06/static/css/main.a8a45535.css",
+    "main.js": "/%20//dragonmoney3.github.io/ex06/static/js/main.27aed630.js",
+    "static/js/787.1fbd6888.chunk.js": "/%20//dragonmoney3.github.io/ex06/static/js/787.1fbd6888.chunk.js",
+    "static/media/any.jpg": "/%20//dragonmoney3.github.io/ex06/static/media/any.3875adf95e26a258ae1f.jpg",
+    "index.html": "/%20//dragonmoney3.github.io/ex06/index.html",
+    "main.a8a45535.css.map": "/%20//dragonmoney3.github.io/ex06/static/css/main.a8a45535.css.map",
+    "main.27aed630.js.map": "/%20//dragonmoney3.github.io/ex06/static/js/main.27aed630.js.map",
+    "787.1fbd6888.chunk.js.map": "/%20//dragonmoney3.github.io/ex06/static/js/787.1fbd6888.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a45535.css",
-    "static/js/main.e06ecbae.js"
+    "static/js/main.27aed630.js"
   ]
 }
